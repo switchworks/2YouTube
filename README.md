@@ -5,7 +5,7 @@
 - YouTubeにうｐってみたいけど動画制作とかわっかんない
 - wavとかmp3とかは出来てるんです
 - そんな貴方に2YouTube.bat(Windows専用)
-- **ダウンロードは右上からdownload -> zipとかでどうぞ**
+- **ダウンロードは右上からClone or download -> Download ZIPとかでどうぞ**
 
 ## 使い方
 
