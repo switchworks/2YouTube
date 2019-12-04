@@ -5,6 +5,7 @@
 - YouTubeにうｐってみたいけど動画制作とかわっかんない
 - wavとかmp3とかは出来てるんです
 - そんな貴方に2YouTube.bat(Windows専用)
+- **ダウンロードは右上からdownload -> zipとかでどうぞ**
 
 ## 使い方
 
@@ -21,3 +22,4 @@
 - 44.1khz 2chを想定しています
 - ビットレート等を変えたい場合は自分でbatを直して下さい
 - 画像が動いたりはしません
+- 解像度は[こんな感じ](https://support.google.com/youtube/answer/6375112)らしいんでサンプルのdefault.pngを同梱しといたよ
